@@ -30,7 +30,7 @@ class RiscvGnuToolchain < Formula
 
   bottle do
     root_url "http://riscv.org.s3.amazonaws.com/bottles"
-    rebuild 13
+    # rebuild 13
     sha256 ventura: "bc5339e65688bbe7e77953daa63cc681fbd6df3a8a1f75d6e0f1d904751e0d83"
   end
 
